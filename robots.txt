@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://troyuu.github.io/resources-h75aqt/sitemap.xml
